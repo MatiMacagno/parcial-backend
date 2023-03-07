@@ -1,0 +1,3 @@
+INFO    2023-03-06 21:25:32,929 [main] com.examen.DAO.impl.OdontologoDAOH2  - Encontrados con exito
+INFO    2023-03-06 21:25:32,956 [main] com.examen.DAO.impl.OdontologoDAOH2  - Se guardo con exito
+INFO    2023-03-06 21:25:32,958 [main] com.examen.DAO.impl.OdontologoDAOH2  - Se guardo con exito
